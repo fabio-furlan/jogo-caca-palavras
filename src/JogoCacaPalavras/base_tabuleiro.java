@@ -1,4 +1,4 @@
-package jogo_caca_palavras;
+package JogoCacaPalavras;
 
 import java.util.HashMap;
 import java.util.Map;

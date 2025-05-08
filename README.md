@@ -1,1 +1,0 @@
-# Jogo de Caça Palavras

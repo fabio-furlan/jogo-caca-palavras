@@ -1,6 +1,4 @@
-package jogo_caca_palavras;
-
-
+package JogoCacaPalavras;
 
 public class Instrucoes {
 	
